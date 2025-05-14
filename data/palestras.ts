@@ -1,0 +1,42 @@
+export const palestras = [
+  {
+    id: "p1",
+    titulo: "Carreira em Desenvolvimento Web",
+    palestrante: "Ana Silva",
+    local: "Auditório Principal",
+    horario: "09:00 - 10:30",
+    vagas: 50,
+  },
+  {
+    id: "p2",
+    titulo: "Inteligência Artificial e o Futuro do Trabalho",
+    palestrante: "Carlos Mendes",
+    local: "Sala 101",
+    horario: "10:45 - 12:15",
+    vagas: 30,
+  },
+  {
+    id: "p3",
+    titulo: "Como se Preparar para Processos Seletivos",
+    palestrante: "Juliana Costa - CIEE",
+    local: "Auditório Principal",
+    horario: "13:30 - 15:00",
+    vagas: 50,
+  },
+  {
+    id: "p4",
+    titulo: "Empreendedorismo Digital",
+    palestrante: "Roberto Alves",
+    local: "Sala 102",
+    horario: "15:15 - 16:45",
+    vagas: 35,
+  },
+  {
+    id: "p5",
+    titulo: "Soft Skills para o Mercado de Trabalho",
+    palestrante: "Mariana Souza - Fundação CDL",
+    local: "Auditório Principal",
+    horario: "17:00 - 18:30",
+    vagas: 50,
+  },
+]
